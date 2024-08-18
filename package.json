@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@aperturerobotics/chonky": "^0.3.0",
-    "@aperturerobotics/chonky-icon-fontawesome": "^0.3.0",
+    "chonky": "latest",
+    "chonky-icon-fontawesome": "latest",
     "@emotion/cache": "latest",
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
