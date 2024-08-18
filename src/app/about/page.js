@@ -9,8 +9,8 @@ import NextLink from 'next/link';
 import ProTip from '@/components/ProTip';
 import Copyright from '@/components/Copyright';
 
-import { FullFileBrowser } from '@aperturerobotics/chonky';
-import { ChonkyIconFA } from '@aperturerobotics/chonky-icon-fontawesome';
+import { FullFileBrowser } from 'chonky';
+import { ChonkyIconFA } from 'chonky-icon-fontawesome';
 
 // import dynamic from "next/dynamic";
 
