@@ -2,6 +2,9 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/HEAD/packages/create-next-app) with Material UI installed.
 
+This repo is a fork of https://github.com/mui/material-ui/tree/master/examples/material-ui-nextjs example.
+It contains an attempt to use Chonky with mui v5.
+
 ## How to use
 
 ### Clone repo:
@@ -24,6 +27,8 @@ yarn dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Chonky problem:
+
+See https://github.com/Konard/mui-nextjs-chonky/blob/main/src/app/about/page.js
 
 ### With SSR (without 'use client'):
 
